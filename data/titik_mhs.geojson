@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "titik_mhs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Amalia Arifah", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 429454.109136061626486, 9139714.005047503858805 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Lenni Nabillah", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 430437.399107734730933, 9140110.081188270822167 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Erlin Dwi Prabandari", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 430781.575078533205669, 9138025.792198212817311 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Amali Fitra Insani", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 431513.074586344358977, 9140137.978576108813286 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Amalia Nur Izzati", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 431093.565316814929247, 9139946.63823058642447 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Elivia Safa Putri", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 429237.117134064726997, 9140068.816803427413106 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Rizal Wahyudi", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 429406.931541191530414, 9140549.170931071043015 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Ryan Putro", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 430277.749231761437841, 9141602.74458278901875 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Muhammad Alfitroh", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 430650.945353096351027, 9142070.241898577660322 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Herdiansyah", "Sumber": null, "Jenis_Utam": null, "Objek": "Asrama" }, "geometry": { "type": "Point", "coordinates": [ 432751.99105072056409, 9140679.063857780769467 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Nisa Ardiyanti", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 430561.190344204427674, 9139789.324595678597689 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Aditya Rico", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 430032.636318260338157, 9140585.626597627997398 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Birgitta Ervina", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 430422.494361224526074, 9140428.369270183146 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Tengku Feby", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 429848.505763056862634, 9140025.018453005701303 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Fakhri Qairawan", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 430572.39809609297663, 9140191.832751698791981 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Vaza Zuvarul", "Sumber": null, "Jenis_Utam": null, "Objek": "Kos" }, "geometry": { "type": "Point", "coordinates": [ 431229.861141253029928, 9140038.912398790940642 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Ferlinda Dwi", "Sumber": null, "Jenis_Utam": null, "Objek": "Rumah" }, "geometry": { "type": "Point", "coordinates": [ 428631.696583965327591, 9138783.249652596190572 ] } },
+{ "type": "Feature", "properties": { "fid_1": 0, "Jenis": null, "Toponim": "Novi Anjani", "Sumber": null, "Jenis_Utam": null, "Objek": "Rumah" }, "geometry": { "type": "Point", "coordinates": [ 430606.5929719809792, 9137121.395739540457726 ] } }
+]
+}
